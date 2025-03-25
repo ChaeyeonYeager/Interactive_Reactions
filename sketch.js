@@ -137,10 +137,6 @@ function draw() {
         let x = 640 - indexTip.x; // 좌우 반전
         let y = indexTip.y;
         indexFingerTrail.push({ x, y, brush: currentBrush }); // 위치 + 브러시 종류 저장
-
-        if (indexFingerTrail.length > 3000) {
-          indexFingerTrail.shift(); // 경로 길이 제한
-        }
       }
     }
 
