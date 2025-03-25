@@ -1,5 +1,6 @@
 # ✋ ml5.js 기반 손 제스처 화상 미팅 인터페이스
 
+유튜브 영상: https://youtu.be/UarpsV_6PqE
 
 ---
 
